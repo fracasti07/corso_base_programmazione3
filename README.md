@@ -1,2 +1,2 @@
-# corso_base_programmazione3
-repository di francesco castiglioni
+# sito_scuola
+Sito vuoto, da riempire con gli appunti presi a lezione.
