@@ -1,0 +1,4 @@
+# Stampo nella console il messaggio
+print("Ciao Mondo!")
+# Aspetto un tasto per chiudere la console
+input("press any key to exit")
